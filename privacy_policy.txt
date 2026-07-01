@@ -1,24 +1,17 @@
 PRIVACY POLICY
-Global Stations | Global Studio | Global Suite
-Also known as: Stations, Studio, Suite
-Last updated: March 13, 2026
+Globe Stations
+Also known as: Stations
+Last updated: 1 July 2026
 
 --------------------------------------------------------------------------------
 
 OVERVIEW
 
-This Privacy Policy applies to the following applications developed and
-published by [Your Company Name]:
+This Privacy Policy applies to Globe Stations, also referred to as "Stations",
+"the app", "we", "our", or "us".
 
-  - Global Stations (also referred to as "Stations")
-  - Global Studio (also referred to as "Studio")
-  - Global Suite (also referred to as "Suite")
-
-These applications are collectively referred to in this policy as "our apps",
-"we", "our", or "us". We are committed to protecting your privacy. This
-Privacy Policy explains what information we collect, how we use it, and your
-rights as a user.
-
+Globe Stations is built for aviation weather awareness, maps, station lookup,
+and operational reference tools. We are committed to protecting your privacy.
 The short version: we do not collect personal data, we do not sell any data,
 and we do not share any data with third parties for marketing purposes.
 
@@ -26,21 +19,19 @@ and we do not share any data with third parties for marketing purposes.
 
 1. INFORMATION WE COLLECT
 
-We do not collect any personally identifiable information (PII). We do not
-require you to create an account, provide your name, email address, or any
-other personal details to use our apps.
+We do not collect personally identifiable information. You can use Globe
+Stations without creating an account, providing your name, email address, or
+sharing personal profile information with us.
 
-We may collect limited, anonymous usage and analytics data to help us
-understand how the apps are used and to improve their performance. This may
-include:
+We may receive limited anonymous usage and diagnostic data to help us understand
+app reliability and improve performance. This may include:
 
-  - General usage patterns (e.g., which features are used most frequently)
+  - General usage patterns, such as which features are used most frequently
   - Crash reports and error logs
   - Device type and operating system version
   - App version
 
-This data is fully anonymized and cannot be used to identify you as an
-individual.
+This information is anonymized and is not used to identify you as an individual.
 
 --------------------------------------------------------------------------------
 
@@ -48,107 +39,101 @@ individual.
 
 We do not collect:
 
-  - Your name, email address, or any contact information
-  - Your precise or approximate location (unless you explicitly grant
-    permission for weather purposes in Global Stations / Stations, in which
-    case the data is used solely to display local weather and is not stored
-    or transmitted to us)
+  - Your name, email address, or contact information
   - Payment or billing information
   - Device identifiers tied to your identity
-  - Browsing history or behavior outside of our apps
+  - Browsing history or behavior outside Globe Stations
+  - Your location, except when you explicitly grant permission for weather or map
+    features
+
+If you grant location permission, your location is used solely to show relevant
+local weather or map information. It is not stored by us or transmitted to us as
+personal data.
 
 --------------------------------------------------------------------------------
 
 3. HOW WE USE INFORMATION
 
-The anonymous analytics data we collect is used solely to:
+Anonymous diagnostics are used only to:
 
   - Diagnose bugs and crashes
-  - Understand general usage trends
-  - Improve the apps' features and performance
+  - Understand general reliability and performance trends
+  - Improve app features and stability
 
-We do not use any data for advertising, profiling, or any purpose beyond
-improving our apps.
+We do not use data for advertising, profiling, cross-app tracking, or any
+purpose beyond improving Globe Stations.
 
 --------------------------------------------------------------------------------
 
-4. BILLING AND PAYMENT
+4. BILLING AND PAYMENTS
 
-Global Stations, Global Studio, and Global Suite are offered as monthly
-subscriptions through the Apple App Store. All billing and payment processing
-is handled entirely by Apple. We do not collect, process, or store your
-payment information (such as credit card numbers or billing addresses) at
-any point.
+If Globe Stations is distributed through the Apple App Store with paid features
+or subscriptions, all billing and payment processing is handled by Apple. We do
+not collect, process, or store payment information, such as credit card numbers
+or billing addresses.
 
-For information on how Apple handles payment data, please refer to Apple's
-Privacy Policy at https://www.apple.com/legal/privacy/.
+For information about how Apple handles payment data, refer to Apple's Privacy
+Policy at https://www.apple.com/legal/privacy/.
 
 --------------------------------------------------------------------------------
 
 5. DATA SHARING AND SELLING
 
-We do not sell, rent, trade, or otherwise transfer any data to third parties.
-We do not share any information with advertisers or marketing companies.
+We do not sell, rent, trade, or otherwise transfer personal data to third
+parties. We do not share information with advertisers or marketing companies.
 
-We may use trusted third-party analytics tools (such as Apple's built-in
-analytics framework) that collect anonymous usage data on our behalf. These
-tools are contractually bound to use data only for the purposes described in
-this policy.
+We may use trusted analytics or diagnostics tools, such as Apple's built-in
+diagnostics, that provide anonymous reliability information. These tools are used
+only for the purposes described in this policy.
 
 --------------------------------------------------------------------------------
 
 6. DATA RETENTION
 
-Because we do not collect personal data, there is nothing to retain or delete
-on a personal level. Anonymous, aggregated analytics data may be retained for
-a reasonable period to track app performance trends and is then discarded.
+Because we do not collect personal data, there is nothing for us to retain or
+delete on a personal level. Anonymous aggregated diagnostics may be retained for
+a reasonable period to track app reliability and performance trends.
 
 --------------------------------------------------------------------------------
 
 7. CHILDREN'S PRIVACY
 
-Our apps are suitable for general audiences. We do not knowingly collect any
-information from children under the age of 13. Since we collect no personal
-data from any user, there is no additional risk to younger users.
+Globe Stations is suitable for general audiences and is not directed to children
+under 13. We do not knowingly collect personal information from children.
 
 --------------------------------------------------------------------------------
 
 8. THIRD-PARTY SERVICES
 
-Global Stations / Stations displays weather data sourced from third-party
-weather data providers. Please refer to those providers' own privacy policies
-for information on how they handle data. Our apps do not pass personal
-information to these services.
+Globe Stations may display aviation, map, and weather information from
+third-party providers. Those services are governed by their own privacy policies.
+Globe Stations does not pass personal information to them for marketing.
 
 --------------------------------------------------------------------------------
 
 9. SECURITY
 
-Even though we collect minimal data, we take reasonable technical and
-organizational measures to protect the information that is processed through
-our apps.
+Even though Globe Stations collects minimal information, we use reasonable
+technical and organizational measures to protect information processed through
+the app.
 
 --------------------------------------------------------------------------------
 
-10. CHANGES TO THIS POLICY
+10. POLICY UPDATES
 
-We may update this Privacy Policy from time to time. If we make material
-changes, we will update the "Last updated" date at the top of this document.
-We encourage you to review this policy periodically. Continued use of any of
-our apps after any changes constitutes your acceptance of the updated policy.
-
---------------------------------------------------------------------------------
-
-11. CONTACT US
-
-If you have any questions or concerns about this Privacy Policy, please
-contact us at:
-
-  [Your contact email address]
-  [Your company name / developer name]
-  [Optional: website URL]
+This policy may be updated from time to time. When changes are made, the updated
+version will be posted here and the date at the top of this page will be
+changed.
 
 --------------------------------------------------------------------------------
 
-This Privacy Policy applies to all apps listed above and any future apps
-published under the same developer account.
+11. CONTACT
+
+For privacy questions about Globe Stations, contact Rasmus Sundsten at:
+
+  rasmus@sundsten.fi
+
+--------------------------------------------------------------------------------
+
+Copyright 2026 Rasmus Sundsten. Globe Stations is designed as a
+privacy-conscious aviation weather and map companion.
