@@ -1,5 +1,5 @@
 Stations — Terms of Use
-Version 1 · effective 30 October 2026
+Version 2 · effective 30 October 2026
 
 End User Licence Agreement
 
@@ -109,7 +109,7 @@ Controller and scope
 Rasmus Sundsten (rasmus@sundsten.fi) is the developer and contact for privacy questions about Stations, also called Globe Stations. This policy covers the native app and its embedded web content. External websites and data providers have their own policies.
 
 Data stored on your device
-Settings, theme preference, station pins and recent selections, cached weather and web data, calculator inputs, tool state, scratchpad drawings, and the terms version and acceptance date can be stored locally. Aircraft registration and service details entered into Rapid Request are used to prepare your draft. Core use does not require an account. Do not enter confidential information you do not want stored on the device or included in a draft.
+Settings, theme preference, station pins and recent selections, cached weather and web data, calculator inputs, tool state, scratchpad drawings, and the terms version and acceptance date can be stored locally. Rapid Request remembers the last-used aircraft registration and up to eight recent registrations locally, so you can select them again. Registration and service details are used to prepare your draft; the recent list is not uploaded or shared automatically. Core use does not require an account. Do not enter confidential information you do not want stored on the device or included in a draft.
 
 Location and device permissions
 With your separate iOS permission, location is used to position the map and support nearby-station and weather functions. Relevant coordinates or map areas may be sent to a provider when a location-based query requires them, including external reference lookups. Location access is not permission to advertise or track you across apps. You can deny or revoke access in iOS Settings and still use manual station lookup. Optional motion-related features use device permissions where required.
@@ -133,7 +133,7 @@ Security, rights and children
 We use platform protections and secure connections where supported, but no storage or transmission is guaranteed secure. Depending on applicable law, you may have rights of access, correction, erasure, restriction, objection and portability, and a right to complain to a data protection authority. Contact rasmus@sundsten.fi; local-only data may need to be managed on your own device because we cannot access it remotely. The app is intended for aviation users and is not directed to children under 13.
 
 Changes and contact
-This policy is version 1, effective 30 October 2026. Material changes to the legal bundle require renewed in-app acknowledgement. For privacy questions or requests, contact Rasmus Sundsten at rasmus@sundsten.fi.
+This policy is version 2, effective 30 October 2026. Material changes to the legal bundle require renewed in-app acknowledgement. For privacy questions or requests, contact Rasmus Sundsten at rasmus@sundsten.fi.
 
 Legal Notices
 

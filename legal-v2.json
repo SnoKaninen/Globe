@@ -1,0 +1,225 @@
+{
+  "version": 2,
+  "effectiveDate": "30 October 2026",
+  "documents": [
+    {
+      "id": "eula",
+      "title": "End User Licence Agreement",
+      "symbol": "doc.text",
+      "parts": [
+        {
+          "heading": "1. Agreement",
+          "text": "This End User Licence Agreement (\"EULA\") is a binding agreement between you and Rasmus Sundsten (\"we\", \"us\"), and not with Apple Inc. or its affiliates (\"Apple\"). We, not Apple, are solely responsible for Stations (the \"app\") and its content. The Limitation of Liability, the Aviation Safety Disclaimer and the Legal Notices form part of this EULA. By tapping \"Agree and continue\", you accept this EULA and confirm that you have the legal capacity to do so. If you do not accept it, you may not use the app."
+        },
+        {
+          "heading": "2. Licence",
+          "text": "Subject to this EULA, we grant you a limited, personal, non-exclusive, non-transferable, non-sublicensable and revocable licence to use the app on Apple-branded devices that you own or control, as permitted by the Usage Rules in the Apple Media Services Terms and Conditions. The app is licensed, not sold. We and our licensors retain all right, title and interest in the app, including all intellectual property rights. All rights not expressly granted are reserved. Where Apple’s Usage Rules permit it, the app may also be accessed by accounts associated with you through Family Sharing, volume purchasing or Legacy Contacts."
+        },
+        {
+          "heading": "3. Restrictions",
+          "text": "You must not: rent, lease, lend, sell, distribute or sublicense the app; copy, modify, translate, decompile, reverse engineer, disassemble or create derivative works of it, except to the extent that applicable law expressly permits this despite this restriction; circumvent any technical measure; remove proprietary notices; or use the app unlawfully, to infringe anyone's rights, or in breach of aviation law, your licence privileges or your operator's procedures."
+        },
+        {
+          "heading": "4. Nature of the app",
+          "text": "Stations (also called Globe Stations) is an aviation weather awareness, station lookup, map and reference-tool companion. It is not certified, approved or endorsed by EASA, the FAA or any authority or operator, and is not an approved electronic flight bag, navigation, flight-planning, dispatch, de-icing decision or means-of-compliance system. Its maps, weather, NOTAMs, airport information, HOT estimates and calculations are advisory and may be incomplete, stale or wrong. The Aviation Safety Disclaimer forms part of this agreement."
+        },
+        {
+          "heading": "5. Your responsibilities",
+          "text": "You are responsible for verifying all inputs, units, dates, time zones, source validity and results against current official publications, aircraft manuals, fluid manufacturer guidance and your operator’s approved procedures. Do not use this app as the sole or primary basis for an operational decision. Keep independent backups of anything you need to retain. Review request drafts and exports before sharing them; the app does not guarantee that a recipient will receive or act on a request."
+        },
+        {
+          "heading": "6. Third-party services and data",
+          "text": "The app uses third-party aviation, weather, mapping and reference services, including AviationWeather.gov, national aeronautical information services, OpenStreetMap-derived maps and satellite/radar providers. Their terms, attribution and privacy rules apply. We do not control their accuracy, completeness, availability or retention practices. You must be authorised to access any external service you use. Sources or features may change or become unavailable."
+        },
+        {
+          "heading": "7. Updates, support and availability",
+          "text": "We have no obligation to provide updates, upgrades, maintenance or support, or to keep the app or any feature available, and we may change, suspend or discontinue the app or any feature at any time without notice or liability. Any updates are governed by this EULA unless accompanied by separate terms. We are solely responsible for any maintenance and support of the app to the extent required by applicable law. Apple has no obligation whatsoever to furnish any maintenance or support services with respect to the app."
+        },
+        {
+          "heading": "8. Disclaimer of warranties",
+          "text": "To the maximum extent permitted by applicable law, the app, its content and its output are provided \"as is\" and \"as available\", with all faults and without warranty of any kind, and we expressly disclaim all warranties, conditions and representations, whether express, implied or statutory, including any implied warranties or conditions of merchantability, satisfactory quality, fitness for a particular purpose, accuracy, completeness, timeliness, quiet enjoyment and non-infringement. We do not warrant that the app will meet your requirements, be error-free, secure or uninterrupted, or that any defect will be corrected. No advice or information obtained from us or the app creates any warranty. In the event of any failure of the app to conform to any applicable warranty, you may notify Apple, and Apple will refund the purchase price for the app, if any; to the maximum extent permitted by applicable law, Apple will have no other warranty obligation whatsoever with respect to the app, and any other claims, losses, liabilities, damages, costs or expenses attributable to any failure to conform to any warranty are governed by this EULA and the Limitation of Liability."
+        },
+        {
+          "heading": "9. Limitation of liability",
+          "text": "Our liability is excluded and limited as set out in the Limitation of Liability."
+        },
+        {
+          "heading": "10. Indemnity",
+          "text": "To the maximum extent permitted by applicable law, you will indemnify, defend and hold harmless us and our affiliates, licensors and agents from and against all claims, losses, liabilities, damages, fines, costs and expenses (including reasonable legal fees) arising out of or relating to your use of the app, your reliance on its output, your data, your breach of this EULA or your violation of any law or the rights of any third party."
+        },
+        {
+          "heading": "11. Product claims",
+          "text": "You and we acknowledge that we, not Apple, are responsible for addressing any claims of you or any third party relating to the app or your possession and/or use of it, including: (i) product liability claims; (ii) any claim that the app fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy or similar legislation. Any such responsibility is subject to this EULA and the Limitation of Liability."
+        },
+        {
+          "heading": "12. Intellectual property claims",
+          "text": "In the event of any third-party claim that the app or your possession and use of it infringes that third party's intellectual property rights, we, not Apple, will be solely responsible for the investigation, defence, settlement and discharge of any such claim, subject to this EULA."
+        },
+        {
+          "heading": "13. Export control and sanctions",
+          "text": "You may not use or otherwise export or re-export the app except as authorised by United States law, European Union law and the laws of the jurisdiction in which you obtained it. You represent and warrant that you are not located in a country that is subject to a U.S. Government embargo or comprehensive EU sanctions, or that has been designated by the U.S. Government as a \"terrorist supporting\" country, and that you are not listed on any U.S. Government, EU or UN list of prohibited or restricted parties."
+        },
+        {
+          "heading": "14. Privacy",
+          "text": "The Privacy Policy included in the app and published at https://snokaninen.github.io/Globe/ describes local storage, optional location access, external data requests and exports. Acknowledging that policy does not grant location permission or consent to advertising; device permissions are separate and optional."
+        },
+        {
+          "heading": "15. Feedback",
+          "text": "If you send us suggestions or feedback, we may use them freely and without any obligation or compensation to you."
+        },
+        {
+          "heading": "16. Changes to these terms",
+          "text": "Material revisions are identified by a new terms version. The app presents that version for explicit acceptance before further use. If you do not accept it, stop using the app. The accepted version and date are stored on your device."
+        },
+        {
+          "heading": "17. Termination",
+          "text": "This EULA is effective until terminated. Your rights under it terminate automatically and without notice if you fail to comply with any of its terms, and we may terminate it at any time for any reason. On termination you must stop using the app and delete it. Sections 4 to 15 and 18 to 22 survive termination."
+        },
+        {
+          "heading": "18. Mandatory law",
+          "text": "Some jurisdictions do not allow certain disclaimers, exclusions or limitations, or grant rights that cannot be waived. In those jurisdictions, the relevant terms apply to the maximum extent permitted by applicable law and are otherwise limited to the minimum extent required."
+        },
+        {
+          "heading": "19. Governing law and disputes",
+          "text": "This agreement is governed by Finnish law, excluding conflict-of-law rules and the UN Convention on Contracts for the International Sale of Goods. Subject to mandatory law, disputes are submitted to the Helsinki District Court, Finland. If you are a consumer, this does not deprive you of non-waivable protections under the law of your habitual residence or of your right to bring proceedings in a competent court available under mandatory consumer law."
+        },
+        {
+          "heading": "20. Third-party beneficiary",
+          "text": "You and we acknowledge and agree that Apple and Apple's subsidiaries are third-party beneficiaries of this EULA, and that, upon your acceptance of this EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce this EULA against you as a third-party beneficiary thereof."
+        },
+        {
+          "heading": "21. Assignment",
+          "text": "You may not assign or transfer this EULA or any rights under it. We may assign or transfer it, in whole or in part, without your consent."
+        },
+        {
+          "heading": "22. General",
+          "text": "If any provision is held invalid or unenforceable, it will be enforced to the maximum extent permissible and the remaining provisions will remain in full force. Our failure to enforce any provision is not a waiver. This EULA is the entire agreement between you and us regarding the app and supersedes all prior understandings. The English version prevails over any translation."
+        },
+        {
+          "heading": "Contact",
+          "text": "Notices and questions: rasmus@sundsten.fi."
+        }
+      ]
+    },
+    {
+      "id": "liability",
+      "title": "Limitation of Liability",
+      "symbol": "exclamationmark.shield",
+      "parts": [
+        {
+          "heading": "Use at your own risk",
+          "text": "Stations assists awareness and reference work. It does not replace pilot-in-command judgement, a complete official briefing, certified instruments, aircraft documentation, manufacturer instructions or your operator’s approved procedures. Operational decisions and independent verification remain your responsibility."
+        },
+        {
+          "heading": "Exclusion",
+          "text": "To the maximum extent permitted by applicable law, in no event will we, our affiliates, licensors or agents be liable for any personal injury or for any direct, indirect, incidental, special, consequential, exemplary or punitive damages, or for any loss of profits, revenue, income, business, employment, licence, ratings or goodwill, loss or corruption of data or records, fines, penalties, sanctions or enforcement action by any authority or employer, or any damage arising from flight operations, weather assessment, de-icing, calculations or service requests, however caused, under any theory of liability, whether in contract, tort (including negligence), strict liability or otherwise, arising out of or relating to the app, its output or third-party data, or your use of or inability to use them, even if we have been advised of the possibility of such damages, and even if a remedy fails of its essential purpose."
+        },
+        {
+          "heading": "Cap",
+          "text": "To the maximum extent permitted by applicable law, our total aggregate liability for all damages arising out of or in connection with the app and this EULA will not exceed the amount you actually paid for the app, if any."
+        },
+        {
+          "heading": "Mandatory exceptions",
+          "text": "The above does not exclude or limit any liability that cannot be excluded or limited under applicable law, such as liability for death or personal injury caused by negligence, for fraud, for wilful misconduct or gross negligence, or under mandatory product liability law. Where the law does not permit liability for ordinary negligence in breach of an essential contractual obligation to be excluded, that liability is limited to the damage that was typical and foreseeable when you accepted this EULA."
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "title": "Aviation Safety Disclaimer",
+      "symbol": "airplane",
+      "parts": [
+        {
+          "heading": "Advisory information only",
+          "text": "Maps, station dots, weather overlays, METAR/TAF decoding, SIGMET/SIGWX displays, NOTAM summaries and airport opening information may be delayed, incomplete, inaccurate or unavailable. Cached information can remain visible after it becomes stale. Check the original source, issue time, validity, area and applicable time zone. Map and airport data are not for navigation."
+        },
+        {
+          "heading": "HOT and winter operations",
+          "text": "Holdover-time estimates and countdowns are reference aids, not authorisations to take off and not a determination that an aircraft is free of contamination. Results depend on the selected fluid, concentration, weather, precipitation intensity, temperature and start time. Verify the current approved tables, all limitations, actual conditions and required inspections. Fluid manufacturer instructions and your operator’s procedures prevail. A timer, notification or Live Activity may be delayed, suspended or unavailable."
+        },
+        {
+          "heading": "Calculators and temperature correction",
+          "text": "Fuel, density, time and temperature-correction results depend on entered units, assumptions, reference values, elevations and temperatures. A nearby weather observation may not represent conditions at the aircraft. Independently verify results against current approved aircraft performance and procedure data. No calculator result establishes adequate fuel, obstacle clearance or regulatory compliance."
+        },
+        {
+          "heading": "Scratchpad, requests and exports",
+          "text": "Scratchpad drawings and locally saved values are convenience aids and are not certified records. Rapid Request prepares a draft; check its registration, services, quantities, recipients and timing before copying or sharing. Generating, copying or sharing a draft is not confirmation of delivery, acceptance or service completion."
+        },
+        {
+          "heading": "Official sources take precedence",
+          "text": "Official aeronautical publications, current weather and NOTAM briefings, aircraft and fluid manufacturer documentation, regulations, and your operator’s approved manuals and procedures always take precedence. Do not use the app while doing so would distract from safe operation."
+        }
+      ]
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy Policy",
+      "symbol": "hand.raised",
+      "parts": [
+        {
+          "heading": "Controller and scope",
+          "text": "Rasmus Sundsten (rasmus@sundsten.fi) is the developer and contact for privacy questions about Stations, also called Globe Stations. This policy covers the native app and its embedded web content. External websites and data providers have their own policies."
+        },
+        {
+          "heading": "Data stored on your device",
+          "text": "Settings, theme preference, station pins and recent selections, cached weather and web data, calculator inputs, tool state, scratchpad drawings, and the terms version and acceptance date can be stored locally. Rapid Request remembers the last-used aircraft registration and up to eight recent registrations locally, so you can select them again. Registration and service details are used to prepare your draft; the recent list is not uploaded or shared automatically. Core use does not require an account. Do not enter confidential information you do not want stored on the device or included in a draft."
+        },
+        {
+          "heading": "Location and device permissions",
+          "text": "With your separate iOS permission, location is used to position the map and support nearby-station and weather functions. Relevant coordinates or map areas may be sent to a provider when a location-based query requires them, including external reference lookups. Location access is not permission to advertise or track you across apps. You can deny or revoke access in iOS Settings and still use manual station lookup. Optional motion-related features use device permissions where required."
+        },
+        {
+          "heading": "Network requests and third parties",
+          "text": "Fetching weather, NOTAMs, satellite/radar imagery, map resources and aeronautical reference information sends requests to the selected providers. They receive your IP address, request time and technical connection information, and may receive the station identifier, map area or coordinates needed for that request. Providers include AviationWeather.gov, IPPC/Avinor, FAA services, national AIP sites, NASA GIBS, EUMETSAT, LibreWXR and other sources selected by the feature. Opening the public legal page contacts GitHub Pages. These providers may keep their own logs and process information in other countries under their policies; we do not control their retention."
+        },
+        {
+          "heading": "Sharing and exports",
+          "text": "Copy, share and export actions provide the selected draft or document to the clipboard, the app or recipient you choose. That content may include registrations, service details, weather or notes. Review it before sharing. External apps, mail services and websites process it under their own policies. Stations does not automatically send Rapid Request drafts."
+        },
+        {
+          "heading": "Diagnostics, advertising and tracking",
+          "text": "The app does not include an advertising or cross-app tracking SDK in this release. We do not sell personal data or use it for marketing profiles. Apple may provide crash or diagnostic information according to your device sharing settings; such reports may contain technical device and app details and should not be assumed to be anonymous. Information you choose to send when requesting support is used to respond and investigate the issue."
+        },
+        {
+          "heading": "Purposes and legal bases",
+          "text": "Data is processed to provide requested app functions and maintain local preferences, on the basis of performing the app agreement where applicable. Optional device access uses your permission. Necessary security and reliability processing may rely on legitimate interests, subject to applicable law. Legal obligations may require certain records. Reading or acknowledging this policy is not blanket consent to unrelated processing."
+        },
+        {
+          "heading": "Retention and deletion",
+          "text": "Local data remains until overwritten, cleared through the relevant feature, or removed with the app. Settings → Clear all cache removes cached weather and web data but keeps preferences, pins, saved tool values, scratchpad and the acceptance record. Clear a scratchpad through its own controls; remove the app to remove its local container. Device backups, exported files, clipboard contents and third-party copies may remain separately and must be managed through those services. Provider logs follow the provider’s policy. Support correspondence is kept only as reasonably needed to handle the request and any applicable legal obligations."
+        },
+        {
+          "heading": "Security, rights and children",
+          "text": "We use platform protections and secure connections where supported, but no storage or transmission is guaranteed secure. Depending on applicable law, you may have rights of access, correction, erasure, restriction, objection and portability, and a right to complain to a data protection authority. Contact rasmus@sundsten.fi; local-only data may need to be managed on your own device because we cannot access it remotely. The app is intended for aviation users and is not directed to children under 13."
+        },
+        {
+          "heading": "Changes and contact",
+          "text": "This policy is version 2, effective 30 October 2026. Material changes to the legal bundle require renewed in-app acknowledgement. For privacy questions or requests, contact Rasmus Sundsten at rasmus@sundsten.fi."
+        }
+      ]
+    },
+    {
+      "id": "notices",
+      "title": "Legal Notices",
+      "symbol": "c.circle",
+      "parts": [
+        {
+          "heading": "Copyright",
+          "text": "Stations © 2026 Rasmus Sundsten. All rights reserved except third-party materials licensed under their respective terms."
+        },
+        {
+          "heading": "Maps and software",
+          "text": "Map data includes © OpenStreetMap contributors (https://www.openstreetmap.org/copyright). MapLibre, bundled mapping libraries, basemap resources and ZIPFoundation retain their respective licences and notices. Attribution displayed on the map and distributed third-party licence files remains applicable; no ownership of those materials is claimed."
+        },
+        {
+          "heading": "Aviation and weather sources",
+          "text": "AviationWeather.gov, national aeronautical information services, FAA/IPPC sources, NASA GIBS, EUMETSAT and radar/satellite providers are credited where used. Provider names identify sources and do not imply affiliation, endorsement, certification or a guarantee of completeness."
+        },
+        {
+          "heading": "Trademarks and contact",
+          "text": "Apple, iPhone and iPad are trademarks of Apple Inc. Other names belong to their respective owners. Stations is not affiliated with or endorsed by Apple, any aviation authority, any operator or any data provider. Developer and contact: Rasmus Sundsten, rasmus@sundsten.fi."
+        }
+      ]
+    }
+  ]
+}
