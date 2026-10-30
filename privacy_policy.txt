@@ -1,139 +1,33 @@
-PRIVACY POLICY
-Globe Stations
-Also known as: Stations
-Last updated: 1 July 2026
+Stations — Privacy Policy
+Version 1 · effective 30 October 2026
 
---------------------------------------------------------------------------------
+Controller and scope
+Rasmus Sundsten (rasmus@sundsten.fi) is the developer and contact for privacy questions about Stations, also called Globe Stations. This policy covers the native app and its embedded web content. External websites and data providers have their own policies.
 
-OVERVIEW
+Data stored on your device
+Settings, theme preference, station pins and recent selections, cached weather and web data, calculator inputs, tool state, scratchpad drawings, and the terms version and acceptance date can be stored locally. Aircraft registration and service details entered into Rapid Request are used to prepare your draft. Core use does not require an account. Do not enter confidential information you do not want stored on the device or included in a draft.
 
-This Privacy Policy applies to Globe Stations, also referred to as "Stations",
-"the app", "we", "our", or "us".
+Location and device permissions
+With your separate iOS permission, location is used to position the map and support nearby-station and weather functions. Relevant coordinates or map areas may be sent to a provider when a location-based query requires them, including external reference lookups. Location access is not permission to advertise or track you across apps. You can deny or revoke access in iOS Settings and still use manual station lookup. Optional motion-related features use device permissions where required.
 
-Globe Stations is built for aviation weather awareness, maps, station lookup,
-and operational reference tools. We are committed to protecting your privacy.
-The short version: we do not collect personal data, we do not sell any data,
-and we do not share any data with third parties for marketing purposes.
+Network requests and third parties
+Fetching weather, NOTAMs, satellite/radar imagery, map resources and aeronautical reference information sends requests to the selected providers. They receive your IP address, request time and technical connection information, and may receive the station identifier, map area or coordinates needed for that request. Providers include AviationWeather.gov, IPPC/Avinor, FAA services, national AIP sites, NASA GIBS, EUMETSAT, LibreWXR and other sources selected by the feature. Opening the public legal page contacts GitHub Pages. These providers may keep their own logs and process information in other countries under their policies; we do not control their retention.
 
---------------------------------------------------------------------------------
+Sharing and exports
+Copy, share and export actions provide the selected draft or document to the clipboard, the app or recipient you choose. That content may include registrations, service details, weather or notes. Review it before sharing. External apps, mail services and websites process it under their own policies. Stations does not automatically send Rapid Request drafts.
 
-1. INFORMATION WE COLLECT
+Diagnostics, advertising and tracking
+The app does not include an advertising or cross-app tracking SDK in this release. We do not sell personal data or use it for marketing profiles. Apple may provide crash or diagnostic information according to your device sharing settings; such reports may contain technical device and app details and should not be assumed to be anonymous. Information you choose to send when requesting support is used to respond and investigate the issue.
 
-We do not collect personally identifiable information. You can use Globe
-Stations without creating an account, providing your name, email address, or
-sharing personal profile information with us.
+Purposes and legal bases
+Data is processed to provide requested app functions and maintain local preferences, on the basis of performing the app agreement where applicable. Optional device access uses your permission. Necessary security and reliability processing may rely on legitimate interests, subject to applicable law. Legal obligations may require certain records. Reading or acknowledging this policy is not blanket consent to unrelated processing.
 
-We may receive limited anonymous usage and diagnostic data to help us understand
-app reliability and improve performance. This may include:
+Retention and deletion
+Local data remains until overwritten, cleared through the relevant feature, or removed with the app. Settings → Clear all cache removes cached weather and web data but keeps preferences, pins, saved tool values, scratchpad and the acceptance record. Clear a scratchpad through its own controls; remove the app to remove its local container. Device backups, exported files, clipboard contents and third-party copies may remain separately and must be managed through those services. Provider logs follow the provider’s policy. Support correspondence is kept only as reasonably needed to handle the request and any applicable legal obligations.
 
-  - General usage patterns, such as which features are used most frequently
-  - Crash reports and error logs
-  - Device type and operating system version
-  - App version
+Security, rights and children
+We use platform protections and secure connections where supported, but no storage or transmission is guaranteed secure. Depending on applicable law, you may have rights of access, correction, erasure, restriction, objection and portability, and a right to complain to a data protection authority. Contact rasmus@sundsten.fi; local-only data may need to be managed on your own device because we cannot access it remotely. The app is intended for aviation users and is not directed to children under 13.
 
-This information is anonymized and is not used to identify you as an individual.
+Changes and contact
+This policy is version 1, effective 30 October 2026. Material changes to the legal bundle require renewed in-app acknowledgement. For privacy questions or requests, contact Rasmus Sundsten at rasmus@sundsten.fi.
 
---------------------------------------------------------------------------------
-
-2. INFORMATION WE DO NOT COLLECT
-
-We do not collect:
-
-  - Your name, email address, or contact information
-  - Payment or billing information
-  - Device identifiers tied to your identity
-  - Browsing history or behavior outside Globe Stations
-  - Your location, except when you explicitly grant permission for weather or map
-    features
-
-If you grant location permission, your location is used solely to show relevant
-local weather or map information. It is not stored by us or transmitted to us as
-personal data.
-
---------------------------------------------------------------------------------
-
-3. HOW WE USE INFORMATION
-
-Anonymous diagnostics are used only to:
-
-  - Diagnose bugs and crashes
-  - Understand general reliability and performance trends
-  - Improve app features and stability
-
-We do not use data for advertising, profiling, cross-app tracking, or any
-purpose beyond improving Globe Stations.
-
---------------------------------------------------------------------------------
-
-4. BILLING AND PAYMENTS
-
-If Globe Stations is distributed through the Apple App Store with paid features
-or subscriptions, all billing and payment processing is handled by Apple. We do
-not collect, process, or store payment information, such as credit card numbers
-or billing addresses.
-
-For information about how Apple handles payment data, refer to Apple's Privacy
-Policy at https://www.apple.com/legal/privacy/.
-
---------------------------------------------------------------------------------
-
-5. DATA SHARING AND SELLING
-
-We do not sell, rent, trade, or otherwise transfer personal data to third
-parties. We do not share information with advertisers or marketing companies.
-
-We may use trusted analytics or diagnostics tools, such as Apple's built-in
-diagnostics, that provide anonymous reliability information. These tools are used
-only for the purposes described in this policy.
-
---------------------------------------------------------------------------------
-
-6. DATA RETENTION
-
-Because we do not collect personal data, there is nothing for us to retain or
-delete on a personal level. Anonymous aggregated diagnostics may be retained for
-a reasonable period to track app reliability and performance trends.
-
---------------------------------------------------------------------------------
-
-7. CHILDREN'S PRIVACY
-
-Globe Stations is suitable for general audiences and is not directed to children
-under 13. We do not knowingly collect personal information from children.
-
---------------------------------------------------------------------------------
-
-8. THIRD-PARTY SERVICES
-
-Globe Stations may display aviation, map, and weather information from
-third-party providers. Those services are governed by their own privacy policies.
-Globe Stations does not pass personal information to them for marketing.
-
---------------------------------------------------------------------------------
-
-9. SECURITY
-
-Even though Globe Stations collects minimal information, we use reasonable
-technical and organizational measures to protect information processed through
-the app.
-
---------------------------------------------------------------------------------
-
-10. POLICY UPDATES
-
-This policy may be updated from time to time. When changes are made, the updated
-version will be posted here and the date at the top of this page will be
-changed.
-
---------------------------------------------------------------------------------
-
-11. CONTACT
-
-For privacy questions about Globe Stations, contact Rasmus Sundsten at:
-
-  rasmus@sundsten.fi
-
---------------------------------------------------------------------------------
-
-Copyright 2026 Rasmus Sundsten. Globe Stations is designed as a
-privacy-conscious aviation weather and map companion.
